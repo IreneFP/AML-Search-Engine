@@ -1,4 +1,4 @@
-# Machine Learning Search Engine
+# Machine Learning Image Search Engine
 
 Final project for CS5785 Applied Machine Learning - Cornell Tech taught by [Serge Belongie](https://scholar.google.com/citations?user=ORr4XJYAAAAJ&hl=en).
 A full description of the task and solution for the Search Engine can be found in [Final Report](AML_Final.pdf).
